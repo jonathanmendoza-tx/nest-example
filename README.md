@@ -2,7 +2,7 @@
 
 Cyber-intrusions and cyber-attacks are a serious concern, and as the number of devices connected to the internet has exponentially increased, so have these threats. Many homes are being connected using products like Nest, and Alexa. For these devices, convenience has overshadowed the need for robust security and detection against intrusions. We can provide machine-learning powered security to complement the convenience of these devices, and keep the user and their data secure. 
 
-Analysis on the traffic of a Nest device has been performed, and this insight can be used to train complex models for the purpose of detecting anomalies *before* they reach the device.
+I have performed a short analysis on the traffic of a Nest device, and this insight can be used to train more complex models for the purpose of detecting anomalies *before* they reach the device.
 
 For further information, read my report on [jupyter notebook](https://github.com/jonathanmendoza-tx/nest-example/blob/master/analysis.ipynb)
 
