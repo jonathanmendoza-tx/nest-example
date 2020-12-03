@@ -1,10 +1,12 @@
 # Nest Example
 
-Analysis of transaction data from a nest device.
+Cyber-intrusions and cyber-attacks are a serious concern, and as the number of devices connected to the internet has exponentially increased, so have these threats. Many homes are being connected using products like Nest, and Alexa. For these devices, convenience has overshadowed the need for robust security and detection against intrusions. We can provide machine-learning powered security to complement the convenience of these devices, and keep the user and their data secure. 
 
-Read report on my jupyter notebook: analysis.ipynb
+Analysis on the traffic of a Nest device has been performed, and this insight can be used to train complex models for the purpose of detecting anomalies *before* they reach the device.
 
-## Project Overview
+For further information, read my report on my jupyter notebook: analysis.ipynb
+
+## Overview
 
 - Observations regarding dataset
 - Feature engineering of nest dataset
