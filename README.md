@@ -1,6 +1,8 @@
 # Nest Example
 
-Analysis of transaction data from a nest device
+Analysis of transaction data from a nest device.
+
+Read report on my jupyter notebook: analysis.ipynb
 
 ## Project Overview
 
