@@ -4,7 +4,7 @@ Cyber-intrusions and cyber-attacks are a serious concern, and as the number of d
 
 Analysis on the traffic of a Nest device has been performed, and this insight can be used to train complex models for the purpose of detecting anomalies *before* they reach the device.
 
-For further information, read my report on my jupyter notebook: analysis.ipynb
+For further information, read my report on [jupyter notebook](https://github.com/jonathanmendoza-tx/nest-example/blob/master/analysis.ipynb)
 
 ## Overview
 
