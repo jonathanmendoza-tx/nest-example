@@ -9,11 +9,23 @@ For further information, read my report on [jupyter notebook](https://github.com
 ## Overview
 
 - Observations regarding dataset
+    - Features to engineer, features I'd like to see captured
 - Feature engineering of nest dataset
+    - Create features based on observations
 - Hypothesis of useful models for detecting anomalies
+    - Supervised and unsupervised models
+        - Neural networks
+        - Decision trees
+        - Time-series analysis
+        - Facebook prophet
 - Client-side and server-side traffic visualized
+    - Shows all traffic broken down by client-side and server-side traffic
 - Examples of baseline models
+    - Using clustering and decision trees for an easy baseline
 - How these models may be implemented with current product architecture
+    - More training data
+    - Validating efficacy of models
+    - Capturing all traffic in real-time and routing it to a server where the model can analyze it
 
 ### Tech Stack
 
